@@ -1,0 +1,39 @@
+name: Generate Pacman Contribution Graph
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 0 * * *"    # daily at midnight UTC (optional)
+  workflow_dispatch:        # allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: 'kanchan-sati'
+          # include_private: true   # uncomment if you want private contributions shown (not needed usually)
+
+      - name: Prepare output folder
+        run: |
+          mkdir -p output
+          # copy generated files (snk may write to dist/ or out/)
+          if [ -d dist ]; then cp -v dist/* output/ || true; fi
+          if [ -d out ]; then cp -v out/* output/ || true; fi
+          # list for debugging
+          ls -la output || true
+
+      - name: Commit and push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generate Pacman contribution graph"
+          add: "output/*"
