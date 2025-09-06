@@ -4,20 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kanchan-sati " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kanchansati36-ship-it.kanchansati36-ship-it&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -72,5 +58,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanchan-sati/kanchan-sati/main/output/pacman-contribution-graph.svg">
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/kanchan-sati/kanchan-sati/main/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kanchan-sati " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kanchansati36-ship-it.kanchansati36-ship-it&"  />
+</div>
 
 ###
