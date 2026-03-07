@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Kanchan Sati, a passionate WordPress Developer with 1 Year of experience. I specialize in crafting responsive, user-friendly websites using Wordpress, HTML, CSS, and JavaScript.<br><br>- 🔭 I’m working as a WordPress Developer (8 months of experience in building and customizing websites)<br>- 📚 Currently, I'm focused on personal projects and enhancing my skills in web development.<br>- ⚡ In my free time I enjoy exploring new WordPress tools, coding practice, and reading tech blogs.</p>
+<p align="left">I'm Kanchan Sati, a passionate WordPress Developer with 1 Year of experience. I specialize in crafting responsive, user-friendly websites using Wordpress, HTML, CSS, and JavaScript.<br><br>- 🔭 I’m working as a WordPress Developer (1 year of experience in building and customizing websites)<br>- 📚 Currently, I'm focused on personal projects and enhancing my skills in web development.<br>- ⚡ In my free time I enjoy exploring new WordPress tools, coding practice, and reading tech blogs.</p>
 
 ###
 
