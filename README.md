@@ -1,8 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist" width="100" />
+</p>
 
-###
 
 <h1 align="center">Hi, I'm Kanchan Sati 👋</h1>
 
@@ -12,7 +11,7 @@
 </p>
 
 <p align="center">
-  🌐 [Portfolio](https://kanchan-sati.netlify.app/) • ✉️ [Email](mailto:kanchansati36@gmail.com)
+  🌐 <a href="https://kanchan-sati.netlify.app/">Portfolio</a> • ✉️ <a href="mailto:kanchansati36@gmail.com">Email</a>
 </p>
 
 ## 👩‍💻 About Me:
